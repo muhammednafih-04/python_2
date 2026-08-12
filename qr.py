@@ -1,5 +1,5 @@
 import qrcode
-d="https://www.MARVEL.com"
+d="https://github.com/muhammednafih-04/portfolio/blob/main/pro.html"
 qr=qrcode.make(d)
 qr.save("google_qrcode.png")
 
