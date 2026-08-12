@@ -1,0 +1,6 @@
+f=open("good.txt",'r+')
+print(f.read())
+f.close()
+f=open("good.txt",'a+')
+f.write("with the assignment")
+print(f.read())
