@@ -9,4 +9,4 @@ while num>0:
 if sum==a:
     print("it is an armstrong number")
 else:
-     print("it is not an armstrong number")
+    print("it is not an armstrong number")
